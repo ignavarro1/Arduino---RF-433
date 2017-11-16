@@ -7,7 +7,6 @@
   DATA -> 4D
   GND -> GND
 
-  SUBIR A GIT
   Alterna entre los 2 botones del control.
  ------------------------------------------------------------- */
 
